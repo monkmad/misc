@@ -2,7 +2,7 @@ blueprint:
   name: Light Bonding with Brightness Sync
   description: Bind 4 light entities together to act in unison
   domain: automation
-  source_url: https://community.home-assistant.io/t/bond-2-light-entities-with-brightness-sync/264492
+  source_url: https://raw.githubusercontent.com/monkmad/misc/main/LightBonding.yaml
   input:
     light_1:
       name: Light 1
